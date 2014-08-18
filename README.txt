@@ -1,4 +1,4 @@
 "Hello,Git" 
 "Bye"
 "...."
-"sharing"
+"sharing""Fixing bug#1234"
